@@ -1,0 +1,16 @@
+{
+
+    "NAME": "Anjali Kushwaha",
+    "ABOUT_ME": "Currently Pursuing B.tech in Computer Science. ☺ Anjali has worked with a startup in the field of web development",
+    "LANGUAGES":[
+        "Python",
+        "JavaScript",
+        "GOLang",
+        "C++"
+    ],
+    "PROJECTS":[
+                       ["filter_drama", "Google", "Google is amazing search engine."],
+                       ["place", "Youtube", "The best video sharing platform."],
+                       ["whatshot", "Gmail", "You all know what this is!!😂"]
+    ]
+}
